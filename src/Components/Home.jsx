@@ -408,7 +408,7 @@ function Home() {
 					</div>
 
 					<div className='btns flex justify-between pb-2 '>
-						<button className='  bgg px-2 py-2 rounded-lg border'>SUBMIT</button>
+						<button className='  bgg  bg-blue-600 px-2 py-2 rounded-lg border'>SUBMIT</button>
 						<button className=' bg-gray-300 px-2 py-2 rounded-lg border'>CANCEL</button>
 
 					</div>
