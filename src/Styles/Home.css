@@ -17,17 +17,17 @@
 }
 
 .head h1{
-	font-size: 1.2rem;
+	font-size: 1rem;
 
 }
 
 .head h1 span{
 	background-color: blue;
 	color: white;
-	/* padding: 4px; */
-	height: fit-content;
-	width: fit-content;
-	font-size: 0.50em;
+	/* padding: 1px; */
+	/* height: fit-content;
+	width: fit-content; */
+	/* font-size: 0.50em; */
 	font-weight: bolder;
 }
 

@@ -7,8 +7,8 @@ function Home() {
 	return (
 		<div className='home h-screen '>
 			<div className='head  flex justify-between '>
-				<h1 className='px-3' >  SPOTTA <span>NG</span></h1>
-				<button className='welcome px-4  flex gap-1 '>Welcome
+				<h1 className='px-4' >  SPOTTA <span>NG</span></h1>
+				<button className='welcome px-4  flex gap-1  '>Welcome
 					<img style={{ borderRadius: '50%' }} className='w-6  h-6   ' src={Pic2} alt='' />
 				</button>
 			</div>
